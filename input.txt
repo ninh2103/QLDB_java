@@ -1,0 +1,12 @@
+maNV=CT01, hoTen=Nguyễn Đức Ninh, gioiTinh=Nam, quoctich=VN, ngayKHD=Wed Feb 10 00:00:00 ICT 2021, ngayHHD=Tue Feb 21 00:00:00 ICT 2023soBanThang=10, luongThoaThuan=100000.01150000.0
+maNV=CT02, hoTen=Nguyễn Tiến Linh, gioiTinh=Nam, quoctich=VN, ngayKHD=Fri May 21 00:00:00 ICT 2021, ngayHHD=Tue Feb 21 00:00:00 ICT 2023soBanThang=3, luongThoaThuan=150000.01150000.0
+maNV=CT03, hoTen=Nguyễn Công Phượng, gioiTinh=Nam, quoctich=VN, ngayKHD=Fri Apr 23 00:00:00 ICT 2021, ngayHHD=Tue Feb 21 00:00:00 ICT 2023soBanThang=5, luongThoaThuan=140000.01210000.0
+maNV=CT04, hoTen=Bùi Tiến Dũng, gioiTinh=Nam, quoctich=VN, ngayKHD=Wed Jul 21 00:00:00 ICT 2021, ngayHHD=Tue Feb 21 00:00:00 ICT 2023soBanThang=0, luongThoaThuan=120000.01120000.0
+maNV=HLV01, hoTen=Park Han Seo, gioiTinh=Nam, quoctich=Hàn Quốc, ngayKHD=Sun Feb 21 00:00:00 ICT 2016, ngayHHD=Tue Feb 21 00:00:00 ICT 2023phuCap=500000.0, heSoluong=159.375000999984E12
+maNV=HLV02, hoTen=Mikel Artetar, gioiTinh=Nam, quoctich=Tây Ban Nha, ngayKHD=Sat Feb 21 00:00:00 ICT 2015, ngayHHD=Wed Jun 14 00:00:00 ICT 2023phuCap=700000.0, heSoluong=201.7500001000004E13
+maNV=CT01, hoTen=Nguyễn Đức Ninh, gioiTinh=Nam, quoctich=VN, ngayKHD=Wed Feb 10 00:00:00 ICT 2021, ngayHHD=Tue Feb 21 00:00:00 ICT 2023soBanThang=10, luongThoaThuan=100000.01150000.0
+maNV=CT02, hoTen=Nguyễn Tiến Linh, gioiTinh=Nam, quoctich=VN, ngayKHD=Fri May 21 00:00:00 ICT 2021, ngayHHD=Tue Feb 21 00:00:00 ICT 2023soBanThang=3, luongThoaThuan=150000.01150000.0
+maNV=CT03, hoTen=Nguyễn Công Phượng, gioiTinh=Nam, quoctich=VN, ngayKHD=Fri Apr 23 00:00:00 ICT 2021, ngayHHD=Tue Feb 21 00:00:00 ICT 2023soBanThang=5, luongThoaThuan=140000.01210000.0
+maNV=CT04, hoTen=Bùi Tiến Dũng, gioiTinh=Nam, quoctich=VN, ngayKHD=Wed Jul 21 00:00:00 ICT 2021, ngayHHD=Tue Feb 21 00:00:00 ICT 2023soBanThang=0, luongThoaThuan=120000.01120000.0
+maNV=HLV01, hoTen=Park Han Seo, gioiTinh=Nam, quoctich=Hàn Quốc, ngayKHD=Sun Feb 21 00:00:00 ICT 2016, ngayHHD=Tue Feb 21 00:00:00 ICT 2023phuCap=500000.0, heSoluong=159.375000999984E12
+maNV=HLV02, hoTen=Mikel Artetar, gioiTinh=Nam, quoctich=Tây Ban Nha, ngayKHD=Sat Feb 21 00:00:00 ICT 2015, ngayHHD=Wed Jun 14 00:00:00 ICT 2023phuCap=700000.0, heSoluong=201.7500001000004E13
